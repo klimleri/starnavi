@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starnavi/static/css/main.073ba4f0.chunk.css",
+    "main.js": "/starnavi/static/js/main.ea6c5a82.chunk.js",
+    "main.js.map": "/starnavi/static/js/main.ea6c5a82.chunk.js.map",
+    "runtime-main.js": "/starnavi/static/js/runtime-main.83b2b7e9.js",
+    "runtime-main.js.map": "/starnavi/static/js/runtime-main.83b2b7e9.js.map",
+    "static/js/2.c662e7f3.chunk.js": "/starnavi/static/js/2.c662e7f3.chunk.js",
+    "static/js/2.c662e7f3.chunk.js.map": "/starnavi/static/js/2.c662e7f3.chunk.js.map",
+    "index.html": "/starnavi/index.html",
+    "precache-manifest.58a5f0bd9836a73064b588e30a37613d.js": "/starnavi/precache-manifest.58a5f0bd9836a73064b588e30a37613d.js",
+    "service-worker.js": "/starnavi/service-worker.js",
+    "static/css/main.073ba4f0.chunk.css.map": "/starnavi/static/css/main.073ba4f0.chunk.css.map",
+    "static/js/2.c662e7f3.chunk.js.LICENSE": "/starnavi/static/js/2.c662e7f3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83b2b7e9.js",
+    "static/js/2.c662e7f3.chunk.js",
+    "static/css/main.073ba4f0.chunk.css",
+    "static/js/main.ea6c5a82.chunk.js"
+  ]
+}
