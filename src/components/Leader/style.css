@@ -1,0 +1,23 @@
+.winners {
+    padding: 50px;
+}
+.winners__title {
+    font-size: 32px;
+    color: #687170;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.winners__block {
+    width: 400px;
+}
+.winners__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin: 2px 0;
+    background-color: #e0e0e0;
+}
+.winner__name {
+    max-width: 70%;
+}

@@ -1,0 +1,31 @@
+.game {
+    padding: 50px;
+    flex-shrink: 0;
+}
+.game__settings {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 30px;
+}
+.game__mode .select {
+    min-width: 200px;
+}
+.game__user .input {
+    min-width: 200px;
+    margin: 0 20px;
+}
+.game__play .play-button {
+    min-width: 120px;
+}
+.game__message {
+    text-align: center;
+    font-size: 20px;
+    min-height: 30px;
+}
+.game__field {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #717171;
+    margin: 30px auto 0;
+}
